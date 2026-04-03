@@ -1,0 +1,6 @@
+build/
+# Ignore sensitive information
+secret.txt
+# Ignore log files
+*.log
+# Ignore temporary files*.tmp
